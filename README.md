@@ -45,3 +45,5 @@ TO RUN THE FILES
 •	TO ACCESS VGG16 FILE: RUN disease identification using vgg16.py
 •	TO ACCESS INCEPTION FILE: RUN disease identification using inception.py
 •	TO ACCESS DENSENET FILE: RUN disease identification using DenseNET.py
+•	TO ACCESS ALEXNET FILE: RUN disease identification using alexnet.py
+•	TO ACCESS RESNET FILE: RUN disease identification using resnet.py
